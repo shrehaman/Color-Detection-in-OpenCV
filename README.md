@@ -19,7 +19,7 @@ Key Features of the Single Color Detection and GUI Color Picker:
 
 The Single Color Detection and GUI Color Picker project aims to provide a simple and efficient solution for color detection and identification tasks. By leveraging OpenCV's computer vision capabilities and incorporating a user-friendly GUI, the project facilitates various applications in fields such as design, image processing, and development.
 
-
+Project - 11
 
 
 ## Table of Contents
